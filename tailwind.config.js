@@ -6,7 +6,10 @@ module.exports = {
     './components/*.{html,js}'
   ],
   theme: {
-    extend: {
+    extend: {backgroundImage: {
+      'hero': "url('icons/HD-wallpaper-windows-globalization-us5-windows-7-rock-formation-7-microsoft-sky-windows-united-states-arch-windows-7-mountains-seven-land-us-blue.jpg')",
+    },
+  
       colors: {
         transparent: 'transparent',
         'rose-200': '#fecdd3',
