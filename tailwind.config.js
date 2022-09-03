@@ -16,7 +16,11 @@ module.exports = {
         'rose-200': '#fecdd3',
         "neutral-400": '#a3a3a3',
         'zinc-200': '#e4e4e7',
-        'orange-600': '#f97316'
+        'orange-600': '#f97316',
+        'violet-300': '#c4b5fd',
+        'gray-200':'#e5e7eb',
+        'gray-300': '#d1d5db',
+        'gray-400': '#9ca3af'
       }
     },
   },
