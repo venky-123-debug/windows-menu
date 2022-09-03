@@ -9,7 +9,9 @@ module.exports = {
     extend: {
       colors: {
         transparent: 'transparent',
-
+        'rose-200': '#fecdd3',
+        "neutral-400": '#a3a3a3',
+'zinc-200': '#e4e4e7'
       }
     },
   },
